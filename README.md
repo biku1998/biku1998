@@ -11,9 +11,9 @@
 
 I'm sourabh, self-taught full stack web developer and tinkerer.
 
-- 🔭 &nbsp; I’m currently working on `react` `gatsby` `atomic design`
-- 🌱 &nbsp; I’m currently learning `hasura` `graphql`
-- 💬 &nbsp; Ask me about `react` `node js` `gatsby`
-
+- 🔭 &nbsp; I’m currently working on `react` `gatsby` `atomic design` `typescript` `Next js`
+- 🌱 &nbsp; I’m currently learning `supabase` `graphql` `prisma`
+<!-- - 💬 &nbsp; Ask me about `react` `node js` `gatsby`
+ -->
 ![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=biku1998&show_icons=true&theme=onedark)
 
