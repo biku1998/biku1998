@@ -12,7 +12,7 @@
 I'm sourabh, self-taught full stack software engineer and tinkerer.
 
 - proficient in `javascript` `typescript` `python`
-- currently working on [openforms](openforms.in)
+- currently working on [openforms](https://www.openforms.in)
 
 ![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=biku1998&show_icons=true&theme=onedark)
 
