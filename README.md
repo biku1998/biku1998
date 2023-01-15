@@ -9,11 +9,10 @@
 </a>
 </br></br>
 
-I'm sourabh, self-taught full stack web developer and tinkerer.
+I'm sourabh, self-taught full stack software engineer and tinkerer.
 
-- 🔭 &nbsp; I’m currently working on `react` `gatsby` `atomic design` `typescript` `Next js`
-- 🌱 &nbsp; I’m currently learning `supabase` `graphql` `prisma`
-<!-- - 💬 &nbsp; Ask me about `react` `node js` `gatsby`
- -->
+- proficient in `javascript` `typescript` `python`
+- currently working on [openforms](openforms.in)
+
 ![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=biku1998&show_icons=true&theme=onedark)
 
