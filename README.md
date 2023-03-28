@@ -12,7 +12,7 @@
 #### I'm sourabh, self-taught full stack software engineer and tinkerer
 
 - proficient in `javascript` `typescript` `python`
-- prefer problem first approach
+- problem first approach
 - intrested in design, product other than core tech
 - currently working on [openforms](https://www.openforms.in)
 
